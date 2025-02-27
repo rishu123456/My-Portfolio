@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+//import profileImage from "Images\profile.jpeg";
 import { Menu, X, Github as GitHub, Linkedin, Mail, Download, ChevronRight, User, Briefcase, Code, Award, GraduationCap } from 'lucide-react';
 
 function App() {
@@ -233,7 +234,7 @@ function App() {
           <div className="md:w-1/2 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
               <img
-                src="Images\profile.jpeg"
+                src="public\Images\profile.jpeg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />

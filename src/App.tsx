@@ -234,7 +234,7 @@ function App() {
           <div className="md:w-1/2 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
               <img
-                src="public\Images\profile.jpeg"
+                src="https://res.cloudinary.com/dhqxvmvla/image/upload/v1740666655/dixpz9jkvtgla59mpg74.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />

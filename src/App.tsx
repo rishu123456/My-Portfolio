@@ -368,9 +368,9 @@ function App() {
                 <div className="relative flex flex-col md:flex-row items-center md:justify-between">
                   <div className="flex justify-start w-full md:w-1/2 md:pr-8 md:text-right">
                     <div className="md:ml-auto">
-                      <h3 className="text-xl font-bold text-blue-600 mb-4 ">Software Development Engineer Intern</h3>
-                      <p className="text-lg font-medium mb-3">Zomato</p>
-                      <p className="text-gray-600 mb-4">July 2024 - jan 2025</p>
+                      <h3 className="text-xl font-bold text-blue-600 mb-4 mt-4 ml-2 ">Software Development Engineer Intern</h3>
+                      <p className="text-lg font-medium mb-3 ml-2">Zomato</p>
+                      <p className="text-gray-600 mb-4 ml-2">July 2024 - jan 2025</p>
 
                     </div>
                   </div>
@@ -379,7 +379,7 @@ function App() {
                     <Briefcase size={18} className="text-blue-600" />
                   </div>
 
-                  <div className="w-full md:w-1/2 md:pl-8 mt-4 md:mt-0">
+                  <div className="w-full md:w-1/2 md:pl-8 mt-4 md:mt-0 ml-3">
                     <div className="bg-white p-4 rounded-lg shadow-md md:ml-8">
                       <ul className="list-disc list-inside text-gray-600 space-y-2">
                         <li>Built many features and functionalities for the OneSupport Dashboard that improved data access efficiency by 35%
@@ -397,9 +397,9 @@ function App() {
                 <div className="relative flex flex-col md:flex-row items-center md:justify-between">
                   <div className="flex justify-start w-full md:w-1/2 md:pr-8 md:text-right order-1 md:order-1">
                     <div className="md:ml-auto">
-                      <h3 className="text-xl font-bold text-blue-600 mb-4">Software Development Engineer</h3>
-                      <p className="text-lg font-medium mb-4">LetsGrowMore</p>
-                      <p className="text-gray-600 mb-4">May 2023 - Aug 2023</p>
+                      <h3 className="text-xl font-bold text-blue-600 mb-4 mt-4 ml-2">Software Development Engineer</h3>
+                      <p className="text-lg font-medium mb-4 ml-2">LetsGrowMore</p>
+                      <p className="text-gray-600 mb-4 ml-2">May 2023 - Aug 2023</p>
                     </div>
                   </div>
 
@@ -407,7 +407,7 @@ function App() {
                     <Briefcase size={18} className="text-blue-600" />
                   </div>
 
-                  <div className="w-full md:w-1/2 md:pl-8 mt-4 md:mt-0 order-2 md:order-2">
+                  <div className="w-full md:w-1/2 md:pl-8 mt-4 md:mt-0 order-2 md:order-2 ml-3">
                     <div className="bg-white p-4 rounded-lg shadow-md md:ml-8">
                       <ul className="list-disc list-inside text-gray-600 space-y-2">
                         <li>Built a responsive Web Application using create-react-app, featuring a user card grid layout and a navigation bar with
@@ -426,9 +426,9 @@ function App() {
                 <div className="relative flex flex-col md:flex-row items-center md:justify-between">
                   <div className="flex justify-start w-full md:w-1/2 md:pr-8 md:text-right">
                     <div className="md:ml-auto">
-                      <h3 className="text-xl font-bold text-blue-600 mb-4">Software Development Engineer Intern</h3>
-                      <p className="text-lg font-medium mb-4">TCS-ion Digital</p>
-                      <p className="text-gray-600 mb-4">March 2023 - May 2023</p>
+                      <h3 className="text-xl font-bold text-blue-600 mb-4 mt-4 ml-2">Software Development Engineer Intern</h3>
+                      <p className="text-lg font-medium mb-4 ml-2">TCS-ion Digital</p>
+                      <p className="text-gray-600 mb-4 ml-2">March 2023 - May 2023</p>
 
                     </div>
                   </div>
@@ -437,7 +437,7 @@ function App() {
                     <Briefcase size={18} className="text-blue-600" />
                   </div>
 
-                  <div className="w-full md:w-1/2 md:pl-8 mt-4 md:mt-0">
+                  <div className="w-full md:w-1/2 md:pl-8 mt-4 md:mt-0 ml-3">
                     <div className="bg-white p-4 rounded-lg shadow-md md:ml-8">
                       <ul className="list-disc list-inside text-gray-600 space-y-2">
                         <li>Led a 45-day project to improve a product web page’s design and performance, aligning user feedback with business

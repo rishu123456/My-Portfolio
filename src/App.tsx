@@ -635,27 +635,27 @@ function App() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="bg-gray-50 p-6 rounded-lg shadow-md">
-                <h4 className="text-lg font-bold mb-2">Web Development Certification</h4>
-                <p className="text-gray-600 mb-2">Certification Provider</p>
-                <p className="text-gray-600">Issued: January 2022</p>
+                <h4 className="text-lg font-bold mb-2">Javascript nano degree Certification</h4>
+                <p className="text-gray-600 mb-2">Prepinsta</p>
+                <p className="text-gray-600">Issued: January 2023</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg shadow-md">
-                <h4 className="text-lg font-bold mb-2">JavaScript Advanced Concepts</h4>
-                <p className="text-gray-600 mb-2">Certification Provider</p>
-                <p className="text-gray-600">Issued: March 2021</p>
+                <h4 className="text-lg font-bold mb-2">SQL nano degree Certificatiion</h4>
+                <p className="text-gray-600 mb-2">Prepinsta</p>
+                <p className="text-gray-600">Issued: March 2023</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg shadow-md">
-                <h4 className="text-lg font-bold mb-2">React Developer Certification</h4>
-                <p className="text-gray-600 mb-2">Certification Provider</p>
-                <p className="text-gray-600">Issued: September 2020</p>
+                <h4 className="text-lg font-bold mb-2">React nano degree Certificatiion</h4>
+                <p className="text-gray-600 mb-2">Prepinsta</p>
+                <p className="text-gray-600">Issued: May 2023</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg shadow-md">
-                <h4 className="text-lg font-bold mb-2">Database Management</h4>
-                <p className="text-gray-600 mb-2">Certification Provider</p>
-                <p className="text-gray-600">Issued: May 2020</p>
+                <h4 className="text-lg font-bold mb-2">Database Management nano degree Certificatiion</h4>
+                <p className="text-gray-600 mb-2">Prepinsta</p>
+                <p className="text-gray-600">Issued: jan 2024</p>
               </div>
             </div>
           </div>
